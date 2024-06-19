@@ -2,7 +2,7 @@
 <br>
 This is the first task for the Prasunet Cyber Security Internship.
 <br>
-To run this program you have *Python* installed on your computer.
+To run this program you must have *Python* installed on your computer.
 <br>
 After making sure you have Python Downloaded, open command prompt(Windows) or Terminal(Linux and MacOS)
 <br>
